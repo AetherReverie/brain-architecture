@@ -1,0 +1,6 @@
+[
+  {
+    "role": "user",
+    "content": "加载 brain-entry-protocol skill，执行入场协议：读 BRAIN.md → soul.md → user-rule.md。这是强制流程，先完成再处理其他请求。"
+  }
+]
